@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0118-pascals-triangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
