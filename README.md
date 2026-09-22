@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -98,8 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
