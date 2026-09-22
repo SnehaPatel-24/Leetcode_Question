@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -96,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
