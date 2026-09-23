@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
