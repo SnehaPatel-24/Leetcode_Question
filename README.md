@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0020-valid-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
