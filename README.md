@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Stack
 |  |
 | ------- |
