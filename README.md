@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Stack
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
