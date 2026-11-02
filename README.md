@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0238-product-of-array-except-self) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
