@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3665-twisted-mirror-path-count](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Stack
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0171-excel-sheet-column-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SnehaPatel-24/Leetcode_Question/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
